@@ -1,11 +1,21 @@
 {
-  "name": "headerparser",
+  "name": "headerParser",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "This example is so cool.",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "husseinraoouf",
+  "license": "MIT",
+  "engines": {
+    "node": "7.10.0"
+  },
+  "dependencies": {
+    "express": "^4.15.2"
+  }
 }
